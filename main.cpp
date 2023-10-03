@@ -90,7 +90,6 @@ bool PrintFile() {
         }
         file.clear(); 
         file.seekg(0); 
-
         int startIdx = std::max(0, totalLines - numLines);
         int currentLine = 0;
         char c;
