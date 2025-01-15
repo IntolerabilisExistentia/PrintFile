@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11967681&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 1
+# PrintFile
 
 ## Задача
 
@@ -45,9 +45,3 @@ _**PrintFile.exe [OPTION] filename**_
 Для реализации утилиты потребуется воспользоваться стандартной библиотекой вводы\вывода ([описание](https://en.cppreference.com/w/cpp/io/basic_ifstream)). [Пример использования](https://cplusplus.com/doc/tutorial/files/)
 
 Пример того, как можно организовать  парсинг аргументов командной строки, можно посмотреть [здесь](http://www.cplusplus.com/articles/DEN36Up4/).
-
-## Deadline
-
-1. 03.10.23 24:00 - 0.8
-2. 10.10.23 24:00 - 0.65
-3. 17.10.23 24:00 - 0.5
